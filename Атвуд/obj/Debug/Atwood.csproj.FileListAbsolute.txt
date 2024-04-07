@@ -1,0 +1,113 @@
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Atwood.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Atwood.Form1.resources
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Atwood.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Atwood.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.pdb
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Tao.FreeGlut.dll
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Tao.OpenGl.dll
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Tao.FreeGlut.xml
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Tao.OpenGl.xml
+C:\Users\HOME\source\repos\Атвуд\Атвуд\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\HOME\source\repos\Атвуд\Атвуд\obj\Debug\Atwood.csproj.CopyComplete
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Tao.FreeGlut.dll
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Tao.OpenGl.dll
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Tao.FreeGlut.xml
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Tao.OpenGl.xml
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Atwood.csprojAssemblyReference.cache
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Atwood.Form1.resources
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Atwood.csproj.GenerateResource.cache
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Atwood.csproj.CoreCompileInputs.cache
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Atwood.csproj.CopyComplete
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\obj\Debug\Атвуд.pdb
+C:\Users\MDK\Desktop\Новая папка (10)\Атвуд\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.dll
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.dll
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.dll
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.xml
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.xml
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.xml
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Atwood.Form1.resources
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CopyComplete
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.pdb
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.dll
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.dll
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.xml
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.xml
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csprojAssemblyReference.cache
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Atwood.Form1.resources
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.GenerateResource.cache
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CoreCompileInputs.cache
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CopyComplete
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\Safety\Desktop\6bf35d7fabc3e08d\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.pdb
+C:\Users\HOME\source\repos\Атвуд(новый)\Атвуд\obj\Debug\Atwood.SplashScreen.resources
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.dll
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.dll
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.xml
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.xml
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csprojAssemblyReference.cache
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.Form1.resources
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.SplashScreen.resources
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.GenerateResource.cache
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CoreCompileInputs.cache
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CopyComplete
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\Safety\Desktop\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.pdb
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.dll
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.dll
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.DevIl.xml
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.OpenGl.xml
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csprojResolveAssemblyReference.cache
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.Form1.resources
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.Form3.resources
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.SplashScreen.resources
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.GenerateResource.Cache
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Atwood.csproj.CoreCompileInputs.cache
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\Safety\Desktop\ \Универ\3С\Физика\a0137546e6307686\Атвуд(новый)\Атвуд\obj\Debug\Атвуд.pdb

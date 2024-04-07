@@ -1,0 +1,10 @@
+C:\Users\Safety\source\repos\Атвуд\Атвуд\bin\Debug\Атвуд.exe.config
+C:\Users\Safety\source\repos\Атвуд\Атвуд\bin\Debug\Атвуд.exe
+C:\Users\Safety\source\repos\Атвуд\Атвуд\bin\Debug\Атвуд.pdb
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.csprojAssemblyReference.cache
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.Form1.resources
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.Properties.Resources.resources
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.csproj.GenerateResource.cache
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.csproj.CoreCompileInputs.cache
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.exe
+C:\Users\Safety\source\repos\Атвуд\Атвуд\obj\Debug\Атвуд.pdb
